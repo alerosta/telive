@@ -1344,6 +1344,14 @@ http://creativecommons.org/licenses/by-sa/4.0/.
 		<uri></uri>
 		<description></description>
 		<countryname>Italy</countryname>
+		<network>
+			<mnc>22</mnc>
+			<name>Emercom.net provincia di Torino</name>
+		</network>
+		<network>
+			<mnc>55</mnc>
+			<name>Istituzionale Provincia di Torino</name>
+		</network>
 	</country>
 	<country>
 		<mcc>612</mcc>
